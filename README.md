@@ -1,6 +1,6 @@
 # ✉️ Cover Letter Generator (Streamlit + Azure OpenAI)
 
-A smart, AI-powered tool to generate personalized and impactful cover letters using your uploaded resume and job details. Built using Streamlit and Azure OpenAI.
+A smart, AI-powered tool to generate personalized and impactful cover letters using your uploaded resume and job details. Built using **Streamlit** and **Azure OpenAI**, this project leverages **Large Language Models (LLMs)** such as **GPT-4o-mini** to understand user context and generate high-quality, customized cover letters.
 
 ---
 
