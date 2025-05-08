@@ -46,13 +46,13 @@ OPENAI_API_VERSION=2023-12-01-preview
 DEPLOYMENT_NAME=your-deployment-name
 ```
 
-▶️ Run the Application
+### ▶️ Run the Application
 ```bash
 streamlit run main.py
 ```
 This will launch the app in your browser.
 
-📁 Project Structure
+### 📁 Project Structure
 ```bash
 .
 ├── main.py              # Streamlit front-end for user input and UI
@@ -62,7 +62,9 @@ This will launch the app in your browser.
 ├── .gitignore           # Git ignore rules for sensitive files
 ```
 
-✍️ Author
+---
+
+## ✍️ Author
 - Created by Aiman Zaharin
 
 
