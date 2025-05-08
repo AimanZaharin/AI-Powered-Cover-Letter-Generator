@@ -1,0 +1,4 @@
+fitz==0.0.1.dev2
+openai==1.77.0
+python-dotenv==1.1.0
+streamlit==1.43.1
