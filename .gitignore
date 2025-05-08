@@ -11,3 +11,6 @@ env/
 
 # Ignore VS Code settings (optional)
 .vscode/
+
+uploads/
+.DS_Store
