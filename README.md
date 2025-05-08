@@ -18,7 +18,7 @@ A smart, AI-powered tool to generate personalized and impactful cover letters us
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/cover-letter-generator.git
+git clone https://github.com/AimanZaharin/AI-Powered-Cover-Letter-Generator.git
 cd cover-letter-generator
 ```
 
