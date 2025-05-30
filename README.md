@@ -64,7 +64,7 @@ This will launch the app in your browser.
 
 ---
 
-## Author
+## Author 
 - Created by [Aiman Zaharin](https://www.linkedin.com/in/aimanzaharin)
 
 
